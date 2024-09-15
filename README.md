@@ -6,6 +6,4 @@ The “New Student Registration Map Checking System” is a comprehensive web ap
 ### Index UI
 ![image](https://github.com/user-attachments/assets/bd28de49-b154-4586-a5c1-89d7057df016)
 
-### Checked UI
-![image](https://github.com/user-attachments/assets/ec94edd4-ce2a-4539-8021-0e9a3bd68a34)
-
+![image](https://github.com/user-attachments/assets/5b8b16c7-9f48-4bff-8ffa-144f7c895b7c)
